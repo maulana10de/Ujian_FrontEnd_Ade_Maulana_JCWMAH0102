@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/css/main.e5f2a41f.chunk.css",
+    "main.js": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/js/main.330ec4eb.chunk.js",
+    "main.js.map": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/js/main.330ec4eb.chunk.js.map",
+    "runtime-main.js": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/js/runtime-main.b85da0d9.js",
+    "runtime-main.js.map": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/js/runtime-main.b85da0d9.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.025eed40.chunk.js": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/js/2.025eed40.chunk.js",
+    "static/js/2.025eed40.chunk.js.map": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/js/2.025eed40.chunk.js.map",
+    "index.html": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/index.html",
+    "precache-manifest.607c318b27fd418eb36e60bd834abce7.js": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/precache-manifest.607c318b27fd418eb36e60bd834abce7.js",
+    "service-worker.js": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.e5f2a41f.chunk.css.map": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/css/main.e5f2a41f.chunk.css.map",
+    "static/js/2.025eed40.chunk.js.LICENSE.txt": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/js/2.025eed40.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/media/logo.af5969b3.png",
+    "static/media/small-banner.jpg": "/Ujian_FrontEnd_Ade_Maulana_JCWMAH0102/static/media/small-banner.daf535ab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b85da0d9.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.025eed40.chunk.js",
+    "static/css/main.e5f2a41f.chunk.css",
+    "static/js/main.330ec4eb.chunk.js"
+  ]
+}
