@@ -1,0 +1,522 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "email": "admin@mail.com",
+      "phone": "081287928317",
+      "password": "admin",
+      "cart": [],
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "username": "ade1",
+      "email": "ade@mail.com",
+      "phone": "081287928317",
+      "password": "ade123!",
+      "cart": [],
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "ade2",
+      "email": "ade2@mail.com",
+      "phone": "081287928317",
+      "password": "ade123!",
+      "cart": [],
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "ade3",
+      "email": "ade3@mail.com",
+      "phone": "081287928317",
+      "password": "ade123!",
+      "cart": [],
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "ade4",
+      "email": "ade@mail.com",
+      "phone": "08127982317",
+      "password": "ade123!",
+      "cart": [],
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "carousels": [
+    {
+      "title": "Predator Adidas",
+      "image": "https://res.cloudinary.com/azouz/image/upload/v1600964393/banner-2_qbo8tq.jpg",
+      "id": 1
+    },
+    {
+      "title": "Adidas Predator v8",
+      "image": "https://res.cloudinary.com/azouz/image/upload/v1600964410/banner-1_xsar4p.jpg",
+      "id": 2
+    },
+    {
+      "image": "https://res.cloudinary.com/azouz/image/upload/v1600964478/banner-3_xzwqnf.jpg",
+      "title": "Nike Predator v",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "ADIDAS PERFORMANCE MARQUEE VEGAS",
+      "category": "Shoes",
+      "brand": "ADIDAS",
+      "colour": "legend ink/ftwr white/flash orange",
+      "description": "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
+      "price": 5000000,
+      "stock": [
+        {
+          "code": "38",
+          "total": 50
+        },
+        {
+          "code": "39",
+          "total": 50
+        },
+        {
+          "code": "40",
+          "total": 50
+        },
+        {
+          "code": "41",
+          "total": 50
+        },
+        {
+          "code": "42",
+          "total": 50
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/adidas_performance-MARQUEE_MID_VEGAS-legend_ink_ftwr_white_flash_orange-5.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "JORDAN WESTBROOK ONE TAKE",
+      "category": "Shoes",
+      "brand": "JORDAN",
+      "colour": "WHITE/WHITE-BLACK-RAGE GREEN",
+      "description": "In the game of basketball Michael Jordan is a god. Number 23 of the Chicago Bulls has set the bar extremely high: His six championship rings, five mvp`s, numerous scoring titles, not to mention his ...",
+      "price": 1500000,
+      "stock": [
+        {
+          "code": "38",
+          "total": 10
+        },
+        {
+          "code": "39",
+          "total": 10
+        },
+        {
+          "code": "40",
+          "total": 1
+        },
+        {
+          "code": "41",
+          "total": 1
+        },
+        {
+          "code": "42",
+          "total": 5
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-6.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "NIKE KYRIE 6",
+      "category": "Shoes",
+      "brand": "NIKE",
+      "colour": "WHITE/BLUE FURY-OPTI YELLOW-DIGITAL PINK",
+      "description": "The NIKE KYRIE 6 is the latest addition to the signature performance line of Kyrie Irving and Nike. If you think about Uncle Drew, immediately the explosive dribblings and his speed of direction changees of the impersonated ankle breaker comes into mind. To never lose traction in these situations, the model has a sole with a continuous Air Zoom unit, which gives the athlete the necessary grip in every moment of the game. The additional strap over the upper provides additional traction and ankle support. True to the motto: \"You reach, I teach!\"",
+      "price": 1780000,
+      "stock": [
+        {
+          "code": "38",
+          "total": 10
+        },
+        {
+          "code": "39",
+          "total": 10
+        },
+        {
+          "code": "40",
+          "total": 3
+        },
+        {
+          "code": "41",
+          "total": 10
+        },
+        {
+          "code": "42",
+          "total": 9
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-6.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "JORDAN AIR JORDAN 14 RETRO",
+      "category": "Shoes",
+      "brand": "JORDAN",
+      "colour": "BLACK/GYM RED-WHITE-OFF WHITE",
+      "description": "In the game of basketball Michael Jordan is a god. Number 23 of the Chicago Bulls has set the bar extremely high: His six championship rings, five mvp`s, numerous scoring titles, not to mention his ...",
+      "price": 2680000,
+      "stock": [
+        {
+          "code": "38",
+          "total": 10
+        },
+        {
+          "code": "39",
+          "total": 10
+        },
+        {
+          "code": "40",
+          "total": 10
+        },
+        {
+          "code": "41",
+          "total": 10
+        },
+        {
+          "code": "42",
+          "total": 10
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/Air_Jordan_14_Retro-BLACK_GYM_RED_WHITE_OFF_WHITE-6.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "NIKE W NIKE REACT ELEMENT 55",
+      "category": "Shoes",
+      "brand": "NIKE",
+      "colour": "WHITE/FIRE PINK-SAPPHIRE-BARELY VOLT",
+      "description": "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
+      "price": 2345000,
+      "stock": [
+        {
+          "code": 38,
+          "total": 5
+        },
+        {
+          "code": 39,
+          "total": 9
+        },
+        {
+          "code": 40,
+          "total": 0
+        },
+        {
+          "code": 41,
+          "total": 0
+        },
+        {
+          "code": 42,
+          "total": 1
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-6.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "NIKE W AIR MAX 90",
+      "category": "Shoes",
+      "brand": "NIKE",
+      "colour": "WHITE/PARTICLE GREY-ROSE-BLACK",
+      "description": "When it comes to basketball, there is no way around Nike – the brand with the Swoosh belongs to the game like dunks, three-pointers and cross-overs. Whether in the NBA, European leagues or your neighborhood ...",
+      "price": 1987300,
+      "stock": [
+        {
+          "code": 38,
+          "total": 2
+        },
+        {
+          "code": 39,
+          "total": 1
+        },
+        {
+          "code": 40,
+          "total": 0
+        },
+        {
+          "code": 41,
+          "total": 3
+        },
+        {
+          "code": 42,
+          "total": 1
+        }
+      ],
+      "images": [
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-1.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-2.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-3.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-4.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-5.jpg",
+        "https://kickz.akamaized.net/en/media/images/p/1200/nike-W_AIR_MAX_90-WHITE_PARTICLE_GREY_ROSE_BLACK-6.jpg"
+      ]
+    },
+    {
+      "name": "BADGE OF SPORT TEE",
+      "category": "Clothing",
+      "brand": "ADIDAS",
+      "colour": "COLLEGIATE GOLD / BRANDED-ADD-M14",
+      "description": "Sport unites. Show your dedication to the adidas way. This tee flies the classic Badge of Sport for everyday inspiration. Soft cotton jersey gives it that quintessential comfy t-shirt feel. ...",
+      "price": 400000,
+      "stock": [
+        {
+          "code": "S",
+          "total": 20
+        },
+        {
+          "code": "M",
+          "total": 20
+        },
+        {
+          "code": "L",
+          "total": 20
+        },
+        {
+          "code": "XL",
+          "total": 20
+        },
+        {
+          "code": "XXL",
+          "total": 18
+        }
+      ],
+      "images": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/39247f3ebf914b3f898cab61014c0406_9366/Badge_of_Sport_Tee_Red_GL3506_01_laydown.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/c1f9ea6fac82495aad76ab610114bcd6_9366/Badge_of_Sport_Tee_Gold_GL3509_01_laydown.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/b9d24e9c17ca40519b84ab610114b528_9366/Badge_of_Sport_Tee_Grey_GL3507_01_laydown.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/0e7ca0e880b64a779126ab610114f791_9366/Badge_of_Sport_Tee_Blue_GL3523_01_laydown.jpg",
+        ""
+      ],
+      "id": 7
+    },
+    {
+      "name": "Star Wars NMD_R1 V2 Shoes",
+      "brand": "Adidas",
+      "category": "Shoes",
+      "colour": "Multicolor/Black/Gold (FX9300)",
+      "description": "Well, what have we here? Someone must've told you about his little maneuver at the Battle of Taanab. The smoothest character in the Star Wars galaxy was the inspiration behind this redesign of the iconic NMD silhouette â€“ Lando Calrissian. ",
+      "price": 3000000,
+      "stock": [
+        {
+          "code": "38",
+          "total": 10
+        },
+        {
+          "code": "39",
+          "total": 0
+        },
+        {
+          "code": "40",
+          "total": 0
+        },
+        {
+          "code": "41",
+          "total": 10
+        },
+        {
+          "code": "42",
+          "total": 10
+        }
+      ],
+      "images": [
+        "https://static.shop.adidas.co.id/media/catalog/product/cache/2/thumbnail/1200x/9df78eab33525d08d6e5fb8d27136e95/F/X/FX9300_FLT_eCom.jpg",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "id": 9
+    }
+  ],
+  "userTransactions": [
+    {
+      "idUser": 4,
+      "username": "ade3",
+      "date": "10/9/2020",
+      "cart": [
+        {
+          "idproduct": 3,
+          "image": "https://kickz.akamaized.net/en/media/images/p/1200/nike-KYRIE_6-WHITE_BLUE_FURY_OPTI_YELLOW_DIGITAL_PINK-1.jpg",
+          "name": "NIKE KYRIE 6",
+          "category": "Shoes",
+          "size": "42",
+          "price": 1780000,
+          "qty": 1,
+          "total": 1780000
+        }
+      ],
+      "status": "Success",
+      "id": 1
+    },
+    {
+      "idUser": 2,
+      "username": "ade1",
+      "date": "10/9/2020",
+      "cart": [
+        {
+          "idproduct": 5,
+          "image": "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-1.jpg",
+          "name": "NIKE W NIKE REACT ELEMENT 55",
+          "category": "Shoes",
+          "size": 42,
+          "price": 2345000,
+          "qty": 0,
+          "total": 0
+        },
+        {
+          "idproduct": 5,
+          "image": "https://kickz.akamaized.net/en/media/images/p/1200/W_NIKE_REACT_ELEMENT_55-WHITE_FIRE_PINK_SAPPHIRE_BARELY_VOLT-1.jpg",
+          "name": "NIKE W NIKE REACT ELEMENT 55",
+          "category": "Shoes",
+          "size": 40,
+          "price": 2345000,
+          "qty": 6,
+          "total": 14070000
+        }
+      ],
+      "status": "unpaid",
+      "id": 2
+    },
+    {
+      "idUser": 5,
+      "username": "ade4",
+      "date": "11/9/2020",
+      "cart": [
+        {
+          "idproduct": 7,
+          "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/39247f3ebf914b3f898cab61014c0406_9366/Badge_of_Sport_Tee_Red_GL3506_01_laydown.jpg",
+          "name": "BADGE OF SPORT TEE",
+          "category": "Clothing",
+          "size": "XXL",
+          "price": 400000,
+          "qty": 2,
+          "total": 800000
+        }
+      ],
+      "status": "Success",
+      "id": 3
+    },
+    {
+      "idUser": 5,
+      "username": "ade4",
+      "date": "11/9/2020",
+      "cart": [
+        {
+          "idproduct": 8,
+          "image": "https://assets.adidas.com/images/w_85,h_85,f_auto,q_auto:sensitive,fl_lossy/a8e9497972714ba5917ea93800f2142b_9366/essentials-3-stripes-tricot-track-jacket.jpg",
+          "name": "Essentials 3-Stripes Tricot Track Jacket",
+          "category": "Clothing",
+          "size": "XL",
+          "price": 500000,
+          "qty": 1,
+          "total": 500000
+        }
+      ],
+      "status": "paid",
+      "id": 4
+    },
+    {
+      "idUser": 5,
+      "username": "ade4",
+      "date": "11/9/2020",
+      "cart": [
+        {
+          "idproduct": 2,
+          "image": "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+          "name": "JORDAN WESTBROOK ONE TAKE",
+          "category": "Shoes",
+          "size": "42",
+          "price": 1500000,
+          "qty": 5,
+          "total": 7500000
+        }
+      ],
+      "status": "paid",
+      "id": 5
+    },
+    {
+      "idUser": 5,
+      "username": "ade4",
+      "date": "11/9/2020",
+      "cart": [
+        {
+          "idproduct": 2,
+          "image": "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+          "name": "JORDAN WESTBROOK ONE TAKE",
+          "category": "Shoes",
+          "size": "41",
+          "price": 1500000,
+          "qty": 1,
+          "total": 1500000
+        }
+      ],
+      "status": "paid",
+      "id": 6
+    },
+    {
+      "idUser": 5,
+      "username": "ade4",
+      "date": "11/9/2020",
+      "cart": [
+        {
+          "idproduct": 2,
+          "image": "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+          "name": "JORDAN WESTBROOK ONE TAKE",
+          "category": "Shoes",
+          "size": "41",
+          "price": 1500000,
+          "qty": 7,
+          "total": 10500000
+        }
+      ],
+      "status": "unpaid",
+      "id": 7
+    }
+  ]
+}

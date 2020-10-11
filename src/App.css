@@ -1,0 +1,4 @@
+.select-image:hover {
+  border: 1.5px solid #03764a;
+  cursor: pointer;
+}
